@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kai Ler and I'm a prospective student of NUS Computer Science.<br><br>Portfolio Website: https://kailermai.github.io/<br>Leetcode Profile: https://leetcode.com/u/kailermai/</p>
+<p align="left">My name is Kai Ler and I'm from NUS Computer Science.<br><br>Portfolio Website: https://kailermai.github.io/<br>Leetcode Profile: https://leetcode.com/u/kailermai/</p>
 
 ###
 
