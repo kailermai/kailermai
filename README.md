@@ -86,7 +86,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/kailermai/kailermai/output/snake.svg" alt="Snake animation" />
-
-###
