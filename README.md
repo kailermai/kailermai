@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Kai Ler, an incoming Year 2 undergraduate in NUS Computer Science<br><br>Portfolio Website: https://kailermai.github.io/portfolio/<br>Leetcode Profile: https://leetcode.com/u/kailermai/</p>
+<p align="left">I am Kai Ler, an incoming Year 3 undergraduate in NUS Computer Science<br><br>Portfolio Website: https://kailermai.github.io/portfolio/<br>Leetcode Profile: https://leetcode.com/u/kailermai/</p>
 
 ###
 
