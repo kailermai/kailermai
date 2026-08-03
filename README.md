@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">I am Kai Ler, an incoming Year 3 undergraduate in NUS Computer Science<br><br>Portfolio Website: https://kailermai.github.io/portfolio/<br>Leetcode Profile: https://leetcode.com/u/kailermai/</p>
+<p data-importer="text" align="left">I am Kai Ler, an incoming Year 3 Computer Science undergraduate at the National University of Singapore (NUS).<br><br>I am passionate about software engineering and enjoy building reliable, scalable systems. Currently, I am a Software Engineering Intern at TikTok, where I work on internal developer infrastructure and gain experience building production systems used at scale.<br><br>Outside of work, I enjoy exploring how AI can improve developer productivity, from building AI-powered tools to experimenting with workflows that make software development faster and more efficient.<br><br>Portfolio Website: https://kailermai.github.io/portfolio/<br>Leetcode Profile: https://leetcode.com/u/kailermai/</p>
 
 ###
 
